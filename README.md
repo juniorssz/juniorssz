@@ -1,0 +1,3 @@
+Atualmente é Cientista de Dados Especialista na área de planejamento de demanda do Grupo Boticário e aluno de mestrado do programa de Métodos Numéricos em Engenharia da UFPR. Trabalhou quase 10 anos nas áreas de Instrumentação e Automação Industrial, predominantemente com planejamento e controle de projetos de engenharia no setor de Óleo e Gás. Atua na área de Ciência de Dados desde 2018 e considera-se um profissional com perfil generalista, com afinidade desde a estruturação de bases de dados, data quality, análises descritiva e diagnóstica, até a modelagem preditiva e prescritiva.
+
+Mais informações e contato: https://acsjunior.com
